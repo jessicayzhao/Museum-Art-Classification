@@ -2,4 +2,4 @@
 
 Authors: Aaron Gordon, Jessica Zhao, Jona Nakai, Kedaar Chakankar
 
-Link to our data: https://www.dropbox.com/scl/fo/hxb97l1xvml3x9ccje1zw/ACmNwZMTy9U-VYLkGGIR6Gc?rlkey=85q04s4n0gyiaxstevgvwsof2&st=sbmrajet&dl=0
+Link to our data: https://www.dropbox.com/scl/fi/yuca80ls5jponff6k5wi2/art500k_period-3.zip?rlkey=19krom49sj4xw8m00sm6kzp97&e=1&st=i1fglscm&dl=0
